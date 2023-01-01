@@ -1,4 +1,4 @@
-# EDIT on branch updates
+# This will cause Trouble
 # Demo Project README
 
 This is a README file
