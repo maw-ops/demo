@@ -1,4 +1,4 @@
-# EDIT on branch updates
+# Changed on Main branch
 # Demo Project README
 
 This is a README file
